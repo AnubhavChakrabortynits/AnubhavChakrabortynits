@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnubhavChakrabortynits
 - 👀 I’m interested in ...Wed Development and Data Science
-- 🌱 I’m currently learning ...Express Js
+- 🌱 I’m currently learning ...Next Js and Express Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
