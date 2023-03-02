@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnubhavChakrabortynits
-- 👀 I’m interested in ...Wed Development and Data Science
+- 👀 I’m interested in ...Web Development and Data Science
 - 🌱 I’m currently learning ...Next Js and Express Js
 - 💞️ I Am currently a part of GDSC NIT Silchar and CSS NITS Dev Wing.
 - 📫 email- chakrabortyanubhav0@gmail.com
